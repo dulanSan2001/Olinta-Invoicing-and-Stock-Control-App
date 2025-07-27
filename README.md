@@ -1,1 +1,1 @@
-# Olinta-Enterprise-Billing-System
+# Olinta Invoicing and Stock Control App
